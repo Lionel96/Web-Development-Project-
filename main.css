@@ -1,0 +1,58 @@
+.a{
+   height: 100%;
+   width: 100%;
+   display:flex;
+   flex-direction: column;
+}
+
+body {
+    padding: 100;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 50%;
+}
+.lion{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 7%;
+}
+.images{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.google {
+    height: 40px; 
+    width: 10%;
+    background-color: #d3d3d3; 
+    border: 0px; 
+    padding-left: 20px;
+    padding-right: 25%; 
+    border-radius: 25px;
+    margin-bottom: 2%;         
+}
+.one{ padding-right: 25px;}
+.two{ padding-right: 25px;}
+.three{ padding-right: 25px;}
+
+.icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 3.5%;
+}
+
+
+.d {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%; 
+    color: white; 
+    border: 0px;
+    position: absolute; top: 30px; right: 70px; 
+    
+  }
+
